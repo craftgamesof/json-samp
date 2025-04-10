@@ -114,14 +114,13 @@ json_free(id);
 ---
 
 ## Sobre o Projeto
-- Autor: **Erick**
-- Projeto: [github.com/ErickDev/samp-json](https://github.com/ErickDev/samp-json)
-- Site pessoal: [erickdev.me](https://erickdev.me)
+- Autor: **Erick Matheus (Craft Games)**
+- Site pessoal: [brasilservergames.com](https://brasilservergames.com)
 
 ---
 
 ## Suporte
-Abra um [issue](https://github.com/ErickDev/samp-json/issues) para dúvidas ou sugestões.
+Abra um [issue](https://github.com/erickcamposof/json-samp/issues) para dúvidas ou sugestões.
 
 ---
 
