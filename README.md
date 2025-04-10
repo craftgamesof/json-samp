@@ -114,7 +114,7 @@ json_free(id);
 ---
 
 ## Sobre o Projeto
-- Autor: **Erick Matheus (Craft Games)**
+- Autor: **Craft Games**
 - Site pessoal: [brasilservergames.com](https://brasilservergames.com)
 
 ---
