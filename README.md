@@ -25,9 +25,13 @@ Este projeto é de uso livre. A distribuição é feita exclusivamente em format
 #include <json>
 ```
 
-3. Adicione ao `server.cfg`:
+3. Adicione ao `server.cfg` no Windows:
 ```
 plugins samp_json
+```
+Ou caso esteja no Linux:
+```
+plugins libsamp_json.so
 ```
 
 > **Nota técnica sobre `#pragma library json`:**
